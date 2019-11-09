@@ -250,6 +250,8 @@ header .btn {
   font-size: 50px;
   color: #411e91;
   text-transform: capitalize;
+  text-shadow: 1px 1px 1px #fff;
+  letter-spacing: 1px;
 }
 
 #customer-care p {
